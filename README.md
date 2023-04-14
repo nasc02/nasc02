@@ -19,4 +19,4 @@
 
 <p><img width="340" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasc02&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nasc02" /></p>
 
-<p>&nbsp;<img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=nasc02&show_icons=true&theme=tokyonight&locale=en" alt="nasc02" /></p>
+<p>&nbsp;<img align="center" height="187" src="https://github-readme-stats.vercel.app/api?username=nasc02&show_icons=true&theme=tokyonight&locale=en" alt="nasc02" /></p>
