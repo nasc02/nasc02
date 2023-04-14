@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henrique Nascimento</h1>
+<h1 align="center">Hi 👋🏽 I'm Henrique Nascimento</h1>
 <h3 align="center">A developer in formation, always learning more.</h3>
 <img src="https://user-images.githubusercontent.com/90779065/231906615-4592c7bb-a896-427f-84aa-2bb98daeb043.gif" align="right" alt="Coding" width="300" >
 
