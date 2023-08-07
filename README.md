@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasc02&label=Profile%20views&color=cf3be3&style=flat" alt="nasc02" /> </p>
 
-- 🌱 I’m currently learning **C# with .NET 7.0 and PSQL**
+- 🌱 I’m currently learning **C# with .NET 7.0 and PSQL** and **Relational Databases**
 
 - 📫 How to reach me **henriqueaugusto840@gmail.com**
 
