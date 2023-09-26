@@ -8,7 +8,7 @@
 
 - My beecrowd **https://www.beecrowd.com.br/judge/en/profile/854227**
   
-- My leetcode **https://www.beecrowd.com.br/judge/en/profile/854227](https://leetcode.com/nasc02/**
+- My leetcode **https://leetcode.com/nasc02/**
 
   
 
