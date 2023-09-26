@@ -2,8 +2,6 @@
 <h3 align="center">A developer in formation, always learning more.</h3>
 <img src="https://user-images.githubusercontent.com/90779065/231906615-4592c7bb-a896-427f-84aa-2bb98daeb043.gif" align="right" alt="Coding-nasc02" width="300" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasc02&label=Profile%20views&color=cf3be3&style=flat" alt="nasc02" /> </p>
-
 - 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **henriqueaugusto840@gmail.com**
