@@ -8,6 +8,9 @@
 
 - My beecrowd **https://www.beecrowd.com.br/judge/en/profile/854227**
   
+- My leetcode **https://www.beecrowd.com.br/judge/en/profile/854227](https://leetcode.com/nasc02/**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
