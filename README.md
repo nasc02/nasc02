@@ -2,7 +2,7 @@
 <h3 align="center">I am fullstack developer </h3>
 <img src="https://user-images.githubusercontent.com/90779065/231906615-4592c7bb-a896-427f-84aa-2bb98daeb043.gif" align="right" alt="Coding-nasc02" width="300" >
 
-- 🌱 I’m currently Learning or Studying **C#**
+- 🌱 I’m currently **Working**
 
 - 📫 How to reach me **henriqueaugusto840@gmail.com**
 
